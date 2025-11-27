@@ -1,6 +1,6 @@
 # Spatio‑temporal Evolution of Glacial Lakes & GLOF Susceptibility — Koshi River Basin (1994–2024)
 
-> **Internship Project (Centre for Rivers, Atmosphere and Land sciences, Marine Sciences and Natural Hazards Lab)** — Remote sensing & GIS workflow to (1) map glacial lakes across 1994/2004/2014/2024 and (2) rank GLOF susceptibility for ≥0.05 km² lakes using an Analytic Hierarchy Process (AHP).
+> **Internship Project (Centre for Rivers, Atmosphere and Land sciences, Marine Resources and Natural Hazards Lab)** — Remote sensing & GIS workflow to (1) map glacial lakes across 1994/2004/2014/2024 and (2) rank GLOF susceptibility for ≥0.05 km² lakes using an Analytic Hierarchy Process (AHP).
 
 ---
 
